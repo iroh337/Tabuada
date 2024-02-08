@@ -29,7 +29,8 @@ input.txtnum{
     text-align: center;
     height: 25px;
     width: 70px;
-    border-radius: 100px;
+    border-radius: 10px;
+    border: 1;
 }
 .divres{
     width: auto;    
@@ -47,7 +48,8 @@ input.txtnum{
     margin: auto;
     margin-top: 10px;
     padding: 1ex 3ex;
-    border-radius: 100px;
+    border-radius: 10px;
+    border: 0;
 }
 
 .botao:hover{
